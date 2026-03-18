@@ -7,7 +7,7 @@ print("yoshua")
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
-print("Fixing Conflict")
+print("Fixing")
 =======
 print("Fixing the conflict")
 >>>>>>> temp
