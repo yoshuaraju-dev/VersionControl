@@ -1,3 +1,4 @@
-print("Hello World")
+def out(name):
+    print("Hello "+name)
 
 print("yoshua")
